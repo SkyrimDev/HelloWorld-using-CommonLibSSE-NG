@@ -1,6 +1,6 @@
 ---
-# This file is optional but helps me ensure the same
-# code style is used in all templates.
+# This file is optional but helps us ensure the same
+# code style is used across all SKSE plugin templates.
 #
 # You can find out more about these configuration files at:
 # https://clang.llvm.org/docs/ClangFormatStyleOptions.html
