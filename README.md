@@ -1,5 +1,3 @@
-> 📜 other templates available at https://github.com/SkyrimScripting/SKSE_Templates
-
 # SKSE "Hello, world!"
 
 - [SKSE "Hello, world!"](#skse-hello-world)
