@@ -6,8 +6,11 @@
 # If you use CMake features from higher versions, update this to match.
 cmake_minimum_required(VERSION 3.21)
 
+# [BEGIN set_project_name]
 # Set your project name. This will be the name of your SKSE .dll file.
 project(HelloWorld VERSION 0.0.1 LANGUAGES CXX)
+
+# [END set_project_name]
 
 # #
 # YOU DO NOT NEED TO EDIT ANYTHING BELOW HERE
